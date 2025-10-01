@@ -1,0 +1,16 @@
+@font-face {
+  font-family: WinkyRough;
+  src: url("../src/assets/fonts/WinkyRough-Medium.ttf");
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-winkyrough: WinkyRough, "sans-serif";
+}
+
+* {
+  font-family: WinkyRough;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
