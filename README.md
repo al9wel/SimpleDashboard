@@ -40,7 +40,7 @@ This project is created to practice **theme toggling**, **state handling** with 
 ## 📁 Project Structure
 
 ```
-📦 react-todolist
+📦 SimpleDashboard
  ┣ 📂 src
  ┃ ┣ 📂 assets      # images,fonts...etc
  ┃ ┣ 📂 components      # Reusable components
