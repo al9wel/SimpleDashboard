@@ -1,4 +1,4 @@
-# 🖥️ Simple Dashboard (React + Vite + Tailwind)
+# 🖥️ Simple Dashboard (React)
 
 A clean and minimal **Dashboard Web App** built using **React**, **Vite**, and **Tailwind CSS**.  
 The dashboard provides a smooth **Dark/Light mode toggle**, allowing users to switch themes effortlessly.  
